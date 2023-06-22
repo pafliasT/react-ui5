@@ -7,8 +7,12 @@
     "@ui5/webcomponents-fiori": "~1.14.0",
     "@ui5/webcomponents-icons": "~1.14.0",
     "@ui5/webcomponents-react": "^1.16.2",
+    "@ui5/webcomponents-react-base": "^1.16.2",
+    "@ui5/webcomponents-react-charts": "^1.16.0",
+    "flexbox-react": "^4.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
